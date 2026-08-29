@@ -1,2 +1,4 @@
 # Ultimate-Snake-Game
-The ultimate snake game ever built
+🐍🐍🐍🐍🐍🐍🐍
+check it on ultimate-snake-game.vercel.app
+Find the code in my repo
